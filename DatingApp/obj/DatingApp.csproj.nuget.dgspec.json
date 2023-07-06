@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/keshavachint/Projects/DatingApp/DatingApp/DatingApp.csproj": {}
+    "/Users/keshavachint/Local/DatingApp/DatingApp/DatingApp.csproj": {}
   },
   "projects": {
-    "/Users/keshavachint/Projects/DatingApp/DatingApp/DatingApp.csproj": {
+    "/Users/keshavachint/Local/DatingApp/DatingApp/DatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/keshavachint/Projects/DatingApp/DatingApp/DatingApp.csproj",
+        "projectUniqueName": "/Users/keshavachint/Local/DatingApp/DatingApp/DatingApp.csproj",
         "projectName": "DatingApp",
-        "projectPath": "/Users/keshavachint/Projects/DatingApp/DatingApp/DatingApp.csproj",
+        "projectPath": "/Users/keshavachint/Local/DatingApp/DatingApp/DatingApp.csproj",
         "packagesPath": "/Users/keshavachint/.nuget/packages/",
-        "outputPath": "/Users/keshavachint/Projects/DatingApp/DatingApp/obj/",
+        "outputPath": "/Users/keshavachint/Local/DatingApp/DatingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/keshavachint/.nuget/NuGet/NuGet.Config"
