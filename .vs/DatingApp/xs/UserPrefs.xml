@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B00487B6-B9D5-4E09-9789-DB57D8DFE283}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatingApp/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="DatingApp/Entities/AppUser.cs" />
+      <File FileName="DatingApp/Data/DataContext.cs" />
+      <File FileName="DatingApp/Controllers/UsersController.cs" />
+      <File FileName="DatingApp/Program.cs" />
+      <File FileName="DatingApp/Controllers/BaseApiController.cs" />
+      <File FileName="DatingApp/Controllers/AccountController.cs" Line="36" Column="20" />
+      <File FileName="DatingApp/DTOs/RegisterDTO.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatingApp" expanded="True">
+            <Node name="DatingApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DatingApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

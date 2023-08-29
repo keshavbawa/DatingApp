@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using DatingApp.Data;
 using DatingApp.Entities;
@@ -13,28 +14,32 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DatingApp.Controllers
 {
-    [ApiController]
     [Route("api/[controller]")]
-    public class UsersController : Controller
+    [ApiController]
+    public class UserController : ControllerBase
     {
         private readonly DataContext _context;
-        public UsersController(DataContext context)
+        public UserController(DataContext context)
         {
             _context = context;
         }
+        //For admin Only
         [HttpGet]
+        [Route("Admins")]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
+        public IActionResult AdminEndPoint()
         {
-            return await _context.Users.ToListAsync();
+            var currentUser = GetCurrentUser();
+            return Ok($"Hi you are an {currentUser.Role}");
         }
-        [HttpGet("{id}")]
-        public async Task<ActionResult<AppUser>> GetUser(int id)
+        private AppUser GetCurrentUser()
         {
-            return await _context.Users.FindAsync(id);
+            var identity = _context.Users;
+            if (identity != null)
+            {
+                return identity.FirstOrDefault();
+            }
+            return null;
         }
-
-   
     }
 }
-

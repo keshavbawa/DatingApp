@@ -80,6 +80,13 @@
 /Users/keshavachint/Projects/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.pdb
 /Users/keshavachint/Projects/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.genruntimeconfig.cache
 /Users/keshavachint/Projects/DatingApp/DatingApp/obj/Debug/net7.0/ref/DatingApp.dll
+/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.csproj.AssemblyReference.cache
+/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.AssemblyInfoInputs.cache
+/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.AssemblyInfo.cs
+/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.csproj.CoreCompileInputs.cache
+/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.MvcApplicationPartsAssemblyInfo.cache
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/appsettings.Development.json
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/appsettings.json
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/DatingApp
@@ -90,6 +97,7 @@
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/Azure.Core.dll
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/Azure.Identity.dll
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/Humanizer.dll
+/Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
@@ -141,13 +149,6 @@
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/keshavachint/Local/DatingApp/DatingApp/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
-/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.csproj.AssemblyReference.cache
-/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.GeneratedMSBuildEditorConfig.editorconfig
-/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.AssemblyInfoInputs.cache
-/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.AssemblyInfo.cs
-/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.csproj.CoreCompileInputs.cache
-/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.MvcApplicationPartsAssemblyInfo.cs
-/Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/DatingApp.MvcApplicationPartsAssemblyInfo.cache
 /Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/staticwebassets/msbuild.DatingApp.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/staticwebassets/msbuild.build.DatingApp.props
 /Users/keshavachint/Local/DatingApp/DatingApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.DatingApp.props
